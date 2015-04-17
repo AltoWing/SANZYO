@@ -81,7 +81,7 @@ public class About extends JDialog {
         copyrightTextArea.setLineWrap(true);
         copyrightTextArea.setRows(8);
         copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2003  Irritable Enterprises, Inc."
-        		+ "\n\nMarina Suda\nMayuko Yoda\nNatsuko Okuzono\n\nSANZYO");
+        		+ "\n\nMarina Suda\nMayuko Yoda\nNatsuko Okuzono\n\nSANZYO");//add name
         copyrightTextArea.setWrapStyleWord(true);
         copyrightTextArea.setBorder(null);
         copyrightTextArea.setFocusable(false);
